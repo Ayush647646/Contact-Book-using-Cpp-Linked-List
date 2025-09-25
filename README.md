@@ -35,22 +35,15 @@ ContactBook/
 
 ## ▶️ How to Run  
 1. Clone this repository:
-   bash
-   git clone https://github.com/your-username/ContactBook.git
+   git clone [https://github.com/your-username/ContactBook.git](https://github.com/Ayush647646/Contact-Book-using-Cpp-Linked-List)
 
 2. Navigate into the project folder:
-
-   bash
    cd ContactBook
    
 3. Compile the program:
-
-   bash
    g++ contactbook.cpp -o contactbook
   
 4. Run the program:
-
-   bash
    ./contactbook
 
 ---
